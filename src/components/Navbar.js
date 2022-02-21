@@ -23,7 +23,7 @@ export default function Navbar({ navlinks, handleDrawerToogler }) {
         <AppBar position="fixed" className={classes.navbar}>
             <Toolbar className={classes.toolbar} style={{ backgroundColor: "#1e464a" }}>
                 <Typography variant="h5" component="h6" >
-                    {"<MyPortfolios/>"}
+                    {"<MyPortfolio/>"}
                 </Typography>
                 <Box component={Hidden} xsDown>
                     <Box>

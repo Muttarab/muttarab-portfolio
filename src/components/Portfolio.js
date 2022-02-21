@@ -54,12 +54,12 @@ const useStyle = makeStyles((theme) => ({
 export default function Portfolio() {
     const classes = useStyle();
     const portfolioData = [
-        { url: PF1, title: "#Weather App", link: "https://weather-app-othman.netlify.app/" },
-        { url: PF2, title: "#Portfolio2", link: "" },
-        { url: PF3, title: "#Portfolio3", link: "" },
-        { url: PF4, title: "#Portfolio4", link: "" },
-        { url: PF5, title: "#Portfolio5", link: "" },
-        { url: PF6, title: "#Portfolio6", link: "" },
+        { url: PF1, title: "#My Portfolio Website", link: "https://muttarab-portfolio.herokuapp.com/" },
+        { url: PF2, title: "#Portfolio 2", link: "" },
+        { url: PF3, title: "#Portfolio 3", link: "" },
+        { url: PF4, title: "#Portfolio 4", link: "" },
+        { url: PF5, title: "#Portfolio 5", link: "" },
+        { url: PF6, title: "#Portfolio 6", link: "" },
     ];
     return (
         <Box className={classes.sectionDark} id='Portfolio'>
