@@ -24,7 +24,7 @@ export default function About() {
     const cardMediaData = [
         {
           title: "Full Stack Web Developer",
-          description:`Experienced in Web Development using React.Js, Redux, Node.Js, HTML, CSS, JavaScript, Material UI, Postgres SQL.`,
+          description:`Experienced in Web Development using React.Js, Redux, Node.Js, Nest Js, HTML, CSS, JavaScript, Material UI, Postgres SQL.`,
           icon: <WebIcon />,
         },
         {

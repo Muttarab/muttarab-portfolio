@@ -67,7 +67,7 @@ export default function Header() {
                 <Typography variant="h3" component="h4" className={classes.headertitle}>
                     Hi, I'm a <span style={{ paddingRight: "5px" }}></span>
                     <Typed
-                        strings={["Software Developer,", "React Js Developer,", "Node Js Developer,"]}
+                        strings={["React Js Developer,", "Node Js Developer,","Nest Js Developer,"]}
                         typeSpeed={30}
                         backSpeed={50}
                         loop
